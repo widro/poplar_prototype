@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"name": "Chicago Pizza",
+		"image": "images/Chicken-Pizza_exps30800_FM143298B03_11_8bC_RMS-2.jpg",
+		"desc": "This is the first pizza on the crew here it has some cheese and sauce and possibly other items we shall see.",
+		"price": 9
+
+	},
+	{
+		"id": 2,
+		"name": "Pep Pizza",
+		"image": "images/easy-pepperoni-pizza-lead-4.jpg",
+		"desc": "This is the second pizza on the crew here it has some cheese and sauce and possibly other items we shall see.",
+		"price": 11
+
+	},
+	{
+		"id": 3,
+		"name": "Heart Pizza",
+		"image": "images/how-to-make-heart-shaped-pizzas-featured-660x430.jpg",
+		"desc": "This is the third pizza on the crew here it has some cheese and sauce and possibly other items we shall see.",
+		"price": 14
+
+	},
+	{
+		"id": 4,
+		"name": "Fire Pizza",
+		"image": "images/sams-1.jpg",
+		"desc": "This is the fourth pizza on the crew here it has some cheese and sauce and possibly other items we shall see.",
+		"price": 20
+
+	},
+]
